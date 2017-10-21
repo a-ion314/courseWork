@@ -1,0 +1,9 @@
+itemID itemName       pOrdered pInStore pSold menufPrice sellingPrice
+1234                        20        5     2      15.00        20.00
+4444   Circular Saw        150      150     0      45.00       125.00
+3333   Cooking Range        50       50     0     450.00       850.00
+1111   Dish Washer          20       20     0     250.50       550.50
+2222   Micro Wave           75       75     0     150.00       400.00
+
+Total Inventory: $102360.00
+Total number of items in the store: 300
